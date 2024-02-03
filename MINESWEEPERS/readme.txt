@@ -1,8 +1,1 @@
-Name: Vu Minh Anh Le
-Section: 12117
-UFL email: vu.le@ufl.edu
-System: Windows
-Compiler: MingW64
-SFML version: SFML-2.6.1
-IDE: CLion
-Other notes: None
+Recreated the classic game Minesweeper written in C++ utilizing the Simple and Fast Multimedia Library (SFML) to design and display a GUI for users to interact with.
